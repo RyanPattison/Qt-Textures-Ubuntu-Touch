@@ -1,0 +1,16 @@
+{
+    "name": "textures",
+    "description": "A Qt Example for textures in OpenGL",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Textures",
+    "hooks": {
+        "textures": {
+            "apparmor": "textures.apparmor",
+            "desktop":  "textures.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Ryan Pattison <ryan@theinternetemail.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
+

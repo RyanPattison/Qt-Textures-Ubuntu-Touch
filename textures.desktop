@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Exec=textures
+Icon=textures.png
+Terminal=false
+Type=Application
+Name=Textures
+Comment=A Qt example of textures in OpenGL
+X-Ubuntu-Touch=true
